@@ -35,7 +35,7 @@ sudo apt-get install cmake
 sudo apt-get install libopenblas-dev liblapack-dev
 
 4. OpenCV 3.1.0
-
+ 
   4.1 Install OpenCV dependencies:
 
     sudo apt-get install git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
