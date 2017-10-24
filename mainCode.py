@@ -35,7 +35,7 @@ for x in lines:
     	x.split(' ')[61]+" "+x.split(' ')[129]+" "+
     	x.split(' ')[62]+" "+x.split(' ')[130]+" "+
     	x.split(' ')[63]+" "+x.split(' ')[131]+" "+
-    	" "+"\n")
+    	" "+"\n") 
 f.close()
 out.close()
 
